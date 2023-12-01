@@ -61,7 +61,8 @@
             // 
             // Myprogress
             // 
-            this.Myprogress.Location = new System.Drawing.Point(-1, 304);
+            this.Myprogress.BackColor = System.Drawing.Color.White;
+            this.Myprogress.Location = new System.Drawing.Point(-1, 305);
             this.Myprogress.Name = "Myprogress";
             this.Myprogress.Size = new System.Drawing.Size(586, 23);
             this.Myprogress.TabIndex = 2;
