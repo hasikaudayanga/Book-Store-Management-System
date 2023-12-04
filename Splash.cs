@@ -17,11 +17,6 @@ namespace Book_Shop_Management_System
         {
             InitializeComponent();
         }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-
-        }
         int startpos = 0;  
         private void timer2_Tick(object sender, EventArgs e)
         {
@@ -42,6 +37,20 @@ namespace Book_Shop_Management_System
         private void Splash_Load(object sender, EventArgs e)
         {
             timer2.Start();
+            int w = Screen.PrimaryScreen.Bounds.Width;
+            int h = Screen.PrimaryScreen.Bounds.Height;
+            this.Location = new Point(0, 0);
+            this.Size = new Size(w, h);
+        }
+
+        private void Splash_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Splash_Validated(object sender, EventArgs e)
+        {
+
         }
     }
 }

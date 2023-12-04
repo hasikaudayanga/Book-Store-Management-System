@@ -21,3 +21,5 @@ C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book S
 C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book Shop Management System\Book Shop Management System\obj\Debug\Book Shop Management System.csproj.CopyComplete
 C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book Shop Management System\Book Shop Management System\obj\Debug\Book Shop Management System.exe
 C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book Shop Management System\Book Shop Management System\obj\Debug\Book Shop Management System.pdb
+C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book Shop Management System\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Billing.resources
+C:\Users\Randhu\Desktop\BIT\SEM - 02\ITE 1942 - ICT Project\Project Files\Book Shop Management System\Book Shop Management System\obj\Debug\Book_Shop_Management_System.AdminLoging.resources
